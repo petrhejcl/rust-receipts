@@ -1,1 +1,1 @@
-# rust-receipts
+# Basic Rust receipts proccessing program
